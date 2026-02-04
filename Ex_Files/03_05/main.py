@@ -36,3 +36,15 @@ for lareate in laureates:
 
 with open("laureates.json", "w") as f:
     json.dump(laureates_beginning_with_a, f, indent=2)
+
+with open("laureates.csv", "r") as f:
+    reader = csv.DictReader(f)
+    laureatesb = list(reader)
+
+laureates_beginning_with_b = []
+for lareate in laureatesb:
+    if lareate['name'][0] == "B":
+        laureates_beginning_with_b.append(lareate)
+
+with open("laureates_b.json", "w") as f:
+    json.dump(laureates_beginning_with_b, f, indent=2)

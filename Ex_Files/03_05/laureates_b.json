@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Brian D.",
+    "surname": "Josephson",
+    "born": "1940-01-04",
+    "died": "0000-00-00",
+    "birthplace": "United Kingdom",
+    "motivation": "for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects",
+    "category": "physics",
+    "year": "1973"
+  },
+  {
+    "name": "Ben R.",
+    "surname": "Mottelson",
+    "born": "1926-07-09",
+    "died": "2022-05-13",
+    "birthplace": "USA",
+    "motivation": "for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection",
+    "category": "physics",
+    "year": "1975"
+  },
+  {
+    "name": "Burton",
+    "surname": "Richter",
+    "born": "1931-03-22",
+    "died": "2018-07-18",
+    "birthplace": "USA",
+    "motivation": "for their pioneering work in the discovery of a heavy elementary particle of a new kind",
+    "category": "physics",
+    "year": "1976"
+  },
+  {
+    "name": "Bertram N.",
+    "surname": "Brockhouse",
+    "born": "1918-07-15",
+    "died": "2003-10-13",
+    "birthplace": "Canada",
+    "motivation": "for the development of neutron spectroscopy",
+    "category": "physics",
+    "year": "1994"
+  },
+  {
+    "name": "Bruce",
+    "surname": "Merrifield",
+    "born": "1921-07-15",
+    "died": "2006-05-14",
+    "birthplace": "USA",
+    "motivation": "for his development of methodology for chemical synthesis on a solid matrix",
+    "category": "chemistry",
+    "year": "1984"
+  },
+  {
+    "name": "Bernardo",
+    "surname": "Houssay",
+    "born": "1887-04-10",
+    "died": "1971-09-21",
+    "birthplace": "Argentina",
+    "motivation": "for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar",
+    "category": "medicine",
+    "year": "1947"
+  },
+  {
+    "name": "Baruch S.",
+    "surname": "Blumberg",
+    "born": "1925-07-28",
+    "died": "2011-04-05",
+    "birthplace": "USA",
+    "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
+    "category": "medicine",
+    "year": "1976"
+  },
+  {
+    "name": "Baruj",
+    "surname": "Benacerraf",
+    "born": "1920-10-29",
+    "died": "2011-08-02",
+    "birthplace": "Venezuela",
+    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
+    "category": "medicine",
+    "year": "1980"
+  },
+  {
+    "name": "Bengt I.",
+    "surname": "Samuelsson",
+    "born": "1934-05-21",
+    "died": "0000-00-00",
+    "birthplace": "Sweden",
+    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
+    "category": "medicine",
+    "year": "1982"
+  },
+  {
+    "name": "Barbara",
+    "surname": "McClintock",
+    "born": "1902-06-16",
+    "died": "1992-09-02",
+    "birthplace": "USA",
+    "motivation": "for her discovery of mobile genetic elements",
+    "category": "medicine",
+    "year": "1983"
+  },
+  {
+    "name": "Bert",
+    "surname": "Sakmann",
+    "born": "1942-06-12",
+    "died": "0000-00-00",
+    "birthplace": "Germany",
+    "motivation": "for their discoveries concerning the function of single ion channels in cells",
+    "category": "medicine",
+    "year": "1991"
+  },
+  {
+    "name": "Bertha",
+    "surname": "von Suttner",
+    "born": "1843-06-09",
+    "died": "1914-06-21",
+    "birthplace": "Austrian Empire (now Czech Republic)",
+    "motivation": "for her audacity to oppose the horrors of war",
+    "category": "peace",
+    "year": "1905"
+  },
+  {
+    "name": "Betty",
+    "surname": "Williams",
+    "born": "1943-05-22",
+    "died": "2020-03-17",
+    "birthplace": "Northern Ireland",
+    "motivation": "for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland",
+    "category": "peace",
+    "year": "1976"
+  },
+  {
+    "name": "Bj\u00f8rnstjerne",
+    "surname": "Bj\u00f8rnson",
+    "born": "1832-12-08",
+    "died": "1910-04-26",
+    "birthplace": "Norway",
+    "motivation": "as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit",
+    "category": "literature",
+    "year": "1903"
+  },
+  {
+    "name": "Bertrand",
+    "surname": "Russell",
+    "born": "1872-05-18",
+    "died": "1970-02-02",
+    "birthplace": "United Kingdom",
+    "motivation": "in recognition of his varied and significant writings in which he champions humanitarian ideals and freedom of thought",
+    "category": "literature",
+    "year": "1950"
+  },
+  {
+    "name": "Boris",
+    "surname": "Pasternak",
+    "born": "1890-02-10",
+    "died": "1960-05-30",
+    "birthplace": "Russia",
+    "motivation": "for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition",
+    "category": "literature",
+    "year": "1958"
+  },
+  {
+    "name": "Bertil",
+    "surname": "Ohlin",
+    "born": "1899-04-23",
+    "died": "1979-08-03",
+    "birthplace": "Sweden",
+    "motivation": "for their pathbreaking contribution to the theory of international trade and international capital movements",
+    "category": "economics",
+    "year": "1977"
+  },
+  {
+    "name": "Barry",
+    "surname": "Sharpless",
+    "born": "1941-04-28",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for his work on chirally catalysed oxidation reactions",
+    "category": "chemistry",
+    "year": "2001"
+  },
+  {
+    "name": "Barry J.",
+    "surname": "Marshall",
+    "born": "1951-09-30",
+    "died": "0000-00-00",
+    "birthplace": "Australia",
+    "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+    "category": "medicine",
+    "year": "2005"
+  },
+  {
+    "name": "Barack",
+    "surname": "Obama",
+    "born": "1961-08-04",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples",
+    "category": "peace",
+    "year": "2009"
+  },
+  {
+    "name": "Bruce A.",
+    "surname": "Beutler",
+    "born": "1957-12-29",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for their discoveries concerning the activation of innate immunity",
+    "category": "medicine",
+    "year": "2011"
+  },
+  {
+    "name": "Brian P.",
+    "surname": "Schmidt",
+    "born": "1967-02-24",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
+    "category": "physics",
+    "year": "2011"
+  },
+  {
+    "name": "Brian",
+    "surname": "Kobilka",
+    "born": "1955-05-30",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for studies of G-protein-coupled receptors",
+    "category": "chemistry",
+    "year": "2012"
+  },
+  {
+    "name": "Bernard L.",
+    "surname": "Feringa",
+    "born": "1951-05-18",
+    "died": "0000-00-00",
+    "birthplace": "the Netherlands",
+    "motivation": "for the design and synthesis of molecular machines",
+    "category": "chemistry",
+    "year": "2016"
+  },
+  {
+    "name": "Bengt",
+    "surname": "Holmstr\u00f6m",
+    "born": "1949-04-18",
+    "died": "0000-00-00",
+    "birthplace": "Finland",
+    "motivation": "for their contributions to contract theory",
+    "category": "economics",
+    "year": "2016"
+  },
+  {
+    "name": "Bob",
+    "surname": "Dylan",
+    "born": "1941-05-24",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for having created new poetic expressions within the great American song tradition",
+    "category": "literature",
+    "year": "2016"
+  },
+  {
+    "name": "Barry C.",
+    "surname": "Barish",
+    "born": "1936-01-27",
+    "died": "0000-00-00",
+    "birthplace": "USA",
+    "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+    "category": "physics",
+    "year": "2017"
+  },
+  {
+    "name": "Benjamin",
+    "surname": "List",
+    "born": "1968-01-11",
+    "died": "0000-00-00",
+    "birthplace": "Germany",
+    "motivation": "for the development of asymmetric organocatalysis",
+    "category": "chemistry",
+    "year": "2021"
+  }
+]
