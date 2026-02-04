@@ -5,4 +5,6 @@ response = requests.get(
 )
 
 last_twenty_years = response.json()[1][:20]
-
+for year in last_twenty_years:
+    display_width=year["value"] // 10000000
+    print(f"{year['date']} {year['value']} {'=' * display_width}")
